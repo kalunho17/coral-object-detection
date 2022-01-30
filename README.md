@@ -7,3 +7,4 @@ Below, you will find some useful links for the installation:
 * [List of Pre-trained Models](https://coral.ai/models/object-detection/)
 * [TensorFlow Checkpoints](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf1_detection_zoo.md)
 * [EfficientDet Benchmark](https://github.com/NobuoTsukamoto/benchmarks/blob/main/tensorflow/lite/efficentdet/efficientdet.md)
+* [LabelImg](https://github.com/tzutalin/labelImg)
